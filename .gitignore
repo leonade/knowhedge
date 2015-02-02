@@ -1,0 +1,10 @@
+*.pyc
+*.xml
+*.bz2
+*.doc*
+*.ini
+/Wiki/wikipediaDumpReader-0.2.10
+/Wiki/WikiFiles
+/Wiki/WikiPages
+/dist
+/build
